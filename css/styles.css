@@ -152,7 +152,7 @@ header > .container {
       rgba(47, 48, 58, 0.4),
       rgba(47, 48, 58, 0.4)
     ),
-    url(../images/Main.jpg);
+    url(../images/main.jpg);
   background-position: center;
   background-repeat: no-repeat;
 }
